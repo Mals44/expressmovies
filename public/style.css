@@ -1,0 +1,11 @@
+body {
+    font-family: consolas, Monaco, "Andale Mono", monospace;
+}
+
+.central {
+    min-height: 250px;
+}
+
+a {
+    text-decoration: none;
+}
